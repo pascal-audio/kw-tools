@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: MIT
+
 from tqdm import tqdm
 from tqdm.utils import CallbackIOWrapper
 
